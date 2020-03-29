@@ -65,7 +65,7 @@ LinkedIn profile: https://www.linkedin.com/in/kurt-chiu-a84324198/
                 });
           }
 
-### 2. User privelages (invisible options, forbidden pages)
+### 2. User privilages (invisible options, forbidden pages)
 
 *  Added an admin role verification to the User.php file
 
